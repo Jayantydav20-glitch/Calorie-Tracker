@@ -1,0 +1,9 @@
+Daily Calorie Report
+----------------------
+Breakfast	300.0
+Lunch	400.0
+Dinner	300.0
+----------------------
+Total: 1000.0
+Average: 333.3333333333333
+Status: Within limit
